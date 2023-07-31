@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A software developer who values simplicity over everything</h3>
 
-- 🔭 I’m currently working as **solutions architect at Embrace Home Loans managing the mortgage technology tech stack**
+- 🔭 I’m currently working as **application developer at Third Federal Savings & Loan**, and previously spent 15 years working as the **solutions architect at Embrace Home Loans managing the mortgage technology tech stack**
 
 - 💬 Ask me about **C#, .NET, Azure DevOps, mortgage technology, Empower.NET LOS**
 
